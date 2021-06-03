@@ -14,6 +14,8 @@ This project is aimed to demonstrate the usage of technologies and organisation 
 
 ## Features of the first MVP
 
+The first MVP will be free to use 🙌, but with some limitations that is listed in the next section.
+
 * Users will be able to create an account using Github
 * Users will be able to delete their account
   * When delete an account, all data related to that account should be deleted
@@ -42,6 +44,7 @@ This project is aimed to demonstrate the usage of technologies and organisation 
 ## Limitations of the first MVP
 
 - Users will be limited to have 3 active forms
+- Forms will be limited to have 100 answers
 
 ## Tech stack
 
