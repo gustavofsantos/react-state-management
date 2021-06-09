@@ -15,6 +15,10 @@ module.exports = {
   },
   plugins: ["react", "@typescript-eslint"],
   rules: {
-    quotes: ["warn", "double"]
+    quotes: ["warn", "double"],
+    "space-before-function-paren": "off",
+
+    "react/react-in-jsx-scope": "off",
+    "react/prop-types": "off"
   }
 }
