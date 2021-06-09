@@ -15,6 +15,11 @@ module.exports = {
     sourceType: "module"
   },
   plugins: ["react", "@typescript-eslint", "jest"],
+  settings: {
+    react: {
+      version: "detect"
+    }
+  },
   rules: {
     quotes: ["warn", "double"],
     "space-before-function-paren": "off",
